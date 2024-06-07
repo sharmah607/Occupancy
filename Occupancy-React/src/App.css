@@ -1,0 +1,33 @@
+.form-input{
+  width:200px;
+
+}
+.para{
+  width:100px;
+  display: inline-flex;
+  
+
+}
+.footer{
+  background-color: white;
+  height:50px;
+  display: flex;
+  margin:0
+  
+}
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:black;
+  height: 1px;
+}
+.footer button {
+  height:40%;
+}
+div {
+  column-gap: 40px;
+  justify-content: flex-start;
+  
+}
